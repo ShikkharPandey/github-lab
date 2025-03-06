@@ -1,4 +1,4 @@
 Hello World!
 this is another change!
 
-This is a new change after creating a branch.
+This is a new change in the file for resolving conflict.
